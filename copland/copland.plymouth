@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=i_use_arch_btw
-Description=animation from copland.mp4 video
+Name=copland
+Description=copland boot theme
 ModuleName=script
-
+  
 [script]
 ImageDir=/usr/share/plymouth/themes/copland
 ScriptFile=/usr/share/plymouth/themes/copland/script.script
