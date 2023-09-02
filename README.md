@@ -9,4 +9,5 @@
   - open terminal and run one of these command `sudo plymouth-set-default-theme -R navi` or   `sudo plymouth-set-default-theme -R copland`
   - check your current theme with `plymouth-set-default-theme`
   ##
-    enjoy staring at your login screen 
+    
+  enjoy staring at your login screen 
