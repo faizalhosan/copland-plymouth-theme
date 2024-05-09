@@ -1,13 +1,14 @@
 # copland-plymouth-theme
+![coplandOS](https://github.com/ioresolution/copland-plymouth-theme/blob/main/copland/progress-22.png)
 
+Two plymouth splash screen based on CoplandOS from Serial Experiments Lain
 
-  Two plymouth themes inspired from SEL(Copland OS). <sub>I used same progress bar for both themes  .    .    .      because I am lazy  </sub>
-#
-  ## usage  
-  [note : this is not the ideal way but it works]  
-  - copy navi + copland directory to /usr/share/plymouth/themes/
-  - open terminal and run one of these command `sudo plymouth-set-default-theme -R navi` or   `sudo plymouth-set-default-theme -R copland`
-  - check your current theme with `plymouth-set-default-theme`
-  ##
+## Usage  
+**(You are expected to have plymouth all set up and running. If not please look up how to get started with plymouth in your specific machine and os.)**
+
+- copy navi + copland directory to /usr/share/plymouth/themes/
+- open terminal and run one of these command `sudo plymouth-set-default-theme -R navi` or `sudo plymouth-set-default-theme -R copland`
+- check your current theme with `plymouth-set-default-theme`
+##
     
-  enjoy staring at your login screen 
+- Enjoy staring at your boot screen 
